@@ -1,6 +1,6 @@
 # firefox_localfiletab
 
-These files should let you change Firefox's behavior so you can display a local file by default when opening a new tab.
+These files should let you change Firefox's behavior so you can display a local file by default when opening a new tab. This solution was proposed by cor-el [here](https://support.mozilla.org/eu/questions/1202974).
 
 ## Instructions
 1. Edit mozilla.cfg to point to the local file you want to have opened. This should be setting a new value for the newTabUrl variable
